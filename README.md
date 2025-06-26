@@ -65,28 +65,4 @@ PyBrary/
 * **Search Books:** Use the search bar to find books by title, author, or genre.
 * **Book Actions:** Buy, borrow, or rate books directly from the main interface.
 
----
 
-## 🙏 Contributing
-
-Feel free to contribute to this project. Fork the repo, make your changes, and create a pull request.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## 📧 Contact
-
-For any inquiries, please reach out to the project team:
-
-* Alaa Gabr ([engalaagabr@hotmail.com](mailto:engalaagabr@hotmail.com))
-
----
-
-## ⭐ Acknowledgements
-
-Thanks to the GlitchWave Team for their contributions.
